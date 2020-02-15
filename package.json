@@ -19,7 +19,7 @@
     "react-reveal": "^1.2.2",
     "react-scripts": "3.3.0",
     "react-spinners": "^0.8.0",
-    "yarn": "^1.21.1"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "react-scripts start",
